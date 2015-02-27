@@ -1,0 +1,2 @@
+serviceClass: p1019_0219.client.GreetingService
+path: 4B227AC0ACA1969557DE9FECF00EE7B8.gwt.rpc

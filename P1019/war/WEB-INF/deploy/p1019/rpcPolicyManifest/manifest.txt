@@ -1,0 +1,3 @@
+# Module p1019
+# RPC service class, partial path of RPC policy file
+p1019_0219.client.GreetingService, 4B227AC0ACA1969557DE9FECF00EE7B8.gwt.rpc
